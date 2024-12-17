@@ -2,7 +2,7 @@ import requests
 
 #URL for the api and corresponding api key for retrieving the JSON file with ExchangeRates
 base_url = "https://v6.exchangerate-api.com/v6/"
-api_key = "cbf9a01d9f3ecf79d7844f5e"
+api_key = "Enter api key here"
 
 #Seperate function for these two since exception handling easier this way
 def enter_amount_currency():
